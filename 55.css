@@ -1,0 +1,123 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	background-repeat: repeat-x;
+	background-color: #0077b5;
+	    background-image: linear-gradient(45deg, rgb(0, 119, 181), rgb(0, 136, 145));
+}
+img {
+	width:200px;
+	height:50px;
+
+}
+#img
+{	
+
+
+position:absolute;
+top:20px;
+left:650px;
+text-align:center;
+margin:auto;
+}
+#imga
+{	
+font-size:30;
+color:white;
+position:relative;
+top:100px;
+left:-20px;
+text-align:center;
+margin:auto;
+}
+#top
+{
+	background-color:#f2f2ff;
+	width:400px;
+	height:480px;
+	position: absolute;
+	top: 170px;
+	left:550px;
+}
+#signupbody {
+	background: url(./Images/form.png);
+	
+	border-top-width: 0; 
+	border-bottom-left-radius: 6px; 
+	border-bottom-right-radius: 6px;
+	width: 308px;
+	height: 365px;
+	position: relative;
+	left: 29px;
+}
+#name
+{
+	position:relative;
+	margin-top: 24px;
+	margin-bottom: 6px;
+}
+
+#name input {
+	width: 300px;
+}
+#firstname {
+	
+	left:5px;
+}
+
+#lastname {
+	position: relative;
+	top:10px;
+	
+}
+.block {
+	width: 400px;
+	margin: 0px 16px 5px 16px;
+	font-family:times new roman;
+	font-size:15;
+	color:grey;}
+
+.block input {
+	width: 300px;
+	height: 28px;
+	padding: 1px 6px;
+	border: 1px solid #ababab;
+	margin-top: 1.5px;
+}
+.buttonbox a:hover
+{
+	color:black;
+	
+}
+.buttonbox a:link
+{
+	color:grey;
+	text-decoration:none;
+}
+.buttonbox{
+	width:350px;
+	left:5px;
+	color:#4d4d4d;
+}
+.button img
+{
+	position:relative;
+	width:350px;
+	height:50px;
+	top:25px;
+}
+.text
+{	
+	position:relative;
+	width:350px;
+	height:50px;
+	top:15px;
+	text-align:center;
+	font-size:25;
+}
+.text a
+{
+	text-decoration:none;
+}
+	
